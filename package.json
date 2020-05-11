@@ -1,0 +1,28 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "description": "A simple text to speech app with javascript",
+  "main": "index.html",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matsh/text-to-speech.git"
+  },
+  "keywords": [
+    "text-to-speech",
+    "app"
+  ],
+  "author": "Maxtsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matsh/text-to-speech/issues"
+  },
+  "homepage": "https://github.com/matsh/text-to-speech"
+}
