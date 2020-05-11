@@ -1,0 +1,13 @@
+body{
+    background: #8854d0;
+}
+.image{
+    width: 50%;
+    height: auto;
+    border-radius: 30px;
+    
+}
+
+.navbar{
+    background: #34495e;
+}
